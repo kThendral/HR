@@ -1,0 +1,342 @@
+{
+  "resume_analysis": {
+    "suitability_score": 92,
+    "skills_match": {
+      "matched_skills": [
+        "Bachelor's degree in Computer Science (Computer Science and Business Systems)",
+        "Strong foundational knowledge of Machine Learning algorithms and principles (XGBoost, NLP, LLMs, RAG, TensorFlow, OpenCV, project applications, published paper)",
+        "Proficiency in Python",
+        "Key ML libraries (TensorFlow, XGBoost, FAISS, SentenceTransformers, Gemini API, Colab)",
+        "Experience with data preprocessing (Feature engineering, custom data scraping, speech-to-text pipelines)",
+        "Experience with data analysis (Model accuracy evaluation, problem solving in projects)",
+        "Experience with Pandas",
+        "Familiarity with version control systems (Git)",
+        "Strong problem-solving abilities (Demonstrated through complex projects and academic achievements)",
+        "Passion for innovation (Mentioned in 'About Me', diverse and innovative projects)",
+        "Excellent communication skills (Community experience, ability to articulate projects)",
+        "Ability to work in a collaborative team environment (Mentioned in 'About Me', community involvement)",
+        "Docker",
+        "Flask"
+      ],
+      "missing_skills": [
+        "PyTorch (explicit mention)",
+        "Scikit-learn (explicit mention in skills, though similar algorithms like XGBoost are used)",
+        "NumPy (explicit mention, though usage is implied by Pandas and ML work)",
+        "Matplotlib (explicit mention, though data analysis often involves visualization)"
+      ]
+    },
+    "experience_evaluation": {
+      "years_experience": 0,
+      "relevance": "high"
+    },
+    "education_evaluation": {
+      "degree_match": true,
+      "education_level": "Pursuing Bachelor of Engineering in Computer Science and Business Systems (Expected 2026) with a CGPA of 9.4."
+    },
+    "keyword_analysis": {
+      "matched_keywords": [
+        "Junior Machine Learning Engineer (suitable candidate profile)",
+        "Bachelor's degree",
+        "Computer Science",
+        "Machine Learning algorithms",
+        "Python",
+        "TensorFlow",
+        "Data preprocessing",
+        "Analysis",
+        "Pandas",
+        "Git",
+        "Problem-solving",
+        "Innovation",
+        "Communication skills",
+        "Collaborative team environment",
+        "XGBoost",
+        "NLP",
+        "LLMs",
+        "RAG",
+        "OpenCV",
+        "Flask",
+        "Docker"
+      ],
+      "missing_keywords": [
+        "PyTorch",
+        "Scikit-learn",
+        "NumPy",
+        "Matplotlib",
+        "Data visualization (explicit mention/demonstration)"
+      ]
+    },
+    "strengths": [
+      "Exceptional academic record (CGPA 9.4) in a highly relevant field.",
+      "Extensive hands-on experience with diverse and complex Machine Learning projects (NLP, Computer Vision, traditional ML) using cutting-edge technologies.",
+      "Proven proficiency in Python and key ML libraries/frameworks (TensorFlow, XGBoost, Gemini API, FAISS).",
+      "Demonstrated experience in data preprocessing, feature engineering, and working with various datasets.",
+      "Strong understanding of software development principles, including full-stack application development (Flask), API design, and deployment (Docker).",
+      "Familiarity with version control systems (Git) and cloud services (AWS EC2, S3).",
+      "Published research paper showcasing theoretical understanding and research capabilities in AI in Medicine.",
+      "Internship experience provides valuable real-world application of ML skills.",
+      "Evidence of strong problem-solving abilities, innovation, and a passion for continuous learning.",
+      "Good communication and collaborative skills, supported by community involvement."
+    ],
+    "weaknesses": [
+      "Still pursuing a Bachelor's degree (expected graduation 2026), meaning limited formal full-time work experience.",
+      "Lacks explicit mention of PyTorch, NumPy, Scikit-learn, and Matplotlib in the technical skills list, although the usage of similar tools and the nature of projects imply familiarity.",
+      "Data visualization skills are not explicitly detailed or demonstrated through specific tools or project outcomes."
+    ],
+    "overall_assessment": "Thendral Kabilan is an outstanding candidate for the Junior Machine Learning Engineer position. Despite being a fourth-year student, their resume demonstrates a comprehensive skill set and extensive practical experience that aligns almost perfectly with the job description. The candidate possesses a strong academic foundation (Bachelor's in Computer Science, CGPA 9.4) and a deep understanding of ML algorithms and principles, evidenced by a diverse portfolio of impactful projects involving NLP, LLMs, computer vision, and traditional ML. Proficiency in Python and key libraries like TensorFlow and XGBoost is clearly demonstrated, along with strong data preprocessing, feature engineering, and deployment skills (Pandas, Docker, Flask). The internship experience and a published paper further underscore their capabilities and passion. While explicit mention of PyTorch, NumPy, Scikit-learn, and Matplotlib is absent, the complexity and scope of their projects suggest at least a working familiarity with the underlying concepts. Thendral also exhibits strong problem-solving abilities, a passion for innovation, and effective communication and collaboration skills. This candidate is highly suitable and exceptionally well-prepared for a junior-level role in Machine Learning."
+  },
+  "github_analysis": {
+    "total_repos": 15,
+    "relevant_repos": [
+      {
+        "name": "AINote",
+        "description": null,
+        "language": "Python",
+        "languages": [
+          "Python"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/AINote",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2025-08-06 17:41:42+00:00",
+        "updated_at": "2025-08-19 18:27:15+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "kThendral"
+        ],
+        "readme": "# \ud83d\udcdd AI Note Taker for Virtual Meetings\n\nAn open-source AI-powered note taker that transcribes and summarizes virtual meetings. \n\n---\n\n## \ud83d\udccc Features\n\n- \ud83c\udf99\ufe0f Live transcription of meetings\n- \ud83e\udde0 AI-powered summarization\n- \ud83d\udcbe Save and download notes\n- \ud83c\udf10 Web app + Chrome Extension support\n- \ud83d\udd12 Local-first (no cloud storage required)\n\n---\n\n## \ud83d\ude80 Setup Instructions\n\n### 1. Clone the repository\n```bash\ngit clone https://github.com/yourusername/ai-note-taker.git\ncd ai-note-taker\n```\n### 2. Backend (Python + FastAPI)\n```bash\ncd backend\npip install -r requirements.txt\nuvicorn main:app --reload\n```\n### 3. Frontend (React)\n```bash\ncd frontend\nnpm install\nnpm start\n```\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 4,
+        "file_count": 4
+      },
+      {
+        "name": "BotCraft",
+        "description": "Hackathon",
+        "language": "Python",
+        "languages": [
+          "Python"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/BotCraft",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2024-11-13 03:48:41+00:00",
+        "updated_at": "2025-04-11 17:52:20+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "areebahmeddd"
+        ],
+        "readme": "# Community Builder Discord Bot\n\nA Discord bot designed to help remote workers network, find mentors, join project teams, and access productivity tools on a virtual island. It offers profile management, project management, learning resources, brainstorming prompts, and focus tools to enhance digital productivity and community building.\n\n## Features\n\n- **Profile Management**: Create and manage user profiles.\n- **Project Management**: Create, list, and manage projects.\n- **Learning Resources**: Access programming tutorials.\n- **Brainstorming**: Get project suggestions based on programming languages.\n- **Focus Tools**: Use Pomodoro timers, track XP, and manage inventory.\n\n## Commands\n\n- `/profile create`: Create a user profile.\n- `/profile list`: List all user profiles.\n- `/project create`: Create a new project.\n- `/project list`: List all projects.\n- `/learn <language>`: List tutorials for a programming language.\n- `/learn <language> <tutorial_name>`: Get details of a specific tutorial.\n- `/brainstorm`: Get project suggestions.\n- `/focus pomodoro <minutes>`: Start a Pomodoro timer.\n- `/focus level`: Check your level and role.\n- `/focus xp`: Check your XP.\n- `/focus inventory`: Check your inventory.\n- `/focus buy`: Buy items with XP.\n- `/focus fight`: Fight a dragon for XP.\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 26,
+        "file_count": 5
+      },
+      {
+        "name": "Complete-Python-3-Bootcamp",
+        "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+        "language": null,
+        "languages": [
+          "Jupyter Notebook",
+          "Python"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/Complete-Python-3-Bootcamp",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2023-04-30 07:56:00+00:00",
+        "updated_at": "2023-04-30 07:56:00+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "Pierian-Data",
+          "TiVentures",
+          "sprutner"
+        ],
+        "readme": "# Complete-Python-3-Bootcamp\nCourse Files for Complete Python 3 Bootcamp Course on Udemy\n\nCopyright(\u00a9) by Pierian Data Inc.\n\nGet it now for 95% off with the link:\nhttps://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB\n\nThanks!\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 37125,
+        "file_count": 24
+      },
+      {
+        "name": "elderly-support",
+        "description": null,
+        "language": "JavaScript",
+        "languages": [
+          "JavaScript",
+          "HTML",
+          "Python",
+          "CSS"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/elderly-support",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2024-05-21 17:20:01+00:00",
+        "updated_at": "2024-07-17 17:52:17+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "kThendral"
+        ],
+        "readme": "# Getting Started with Create React App\n\nThis project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\n\n## Available Scripts\n\nIn the project directory, you can run:\n\n### `npm start`\n\nRuns the app in the development mode.\\\nOpen [http://localhost:3000](http://localhost:3000) to view it in your browser.\n\nThe page will reload when you make changes.\\\nYou may also see any lint errors in the console.\n\n### `npm test`\n\nLaunches the test runner in the interactive watch mode.\\\nSee the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.\n\n### `npm run build`\n\nBuilds the app for production to the `build` folder.\\\nIt correctly bundles React in production mode and optimizes the build for the best performance.\n\nThe build is minified and the filenames include the hashes.\\\nYour app is ready to be deployed!\n\nSee the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.\n\n### `npm run eject`\n\n**Note: this is a one-way operation. Once you `eject`, you can't go back!**\n\nIf you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.\n\nInstead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.\n\nYou don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.\n\n## Learn More\n\nYou can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).\n\nTo learn React, check out the [React documentation](https://reactjs.org/).\n\n### Code Splitting\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)\n\n### Analyzing the Bundle Size\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)\n\n### Making a Progressive Web App\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)\n\n### Advanced Configuration\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)\n\n### Deployment\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)\n\n### `npm run build` fails to minify\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 1787,
+        "file_count": 10
+      },
+      {
+        "name": "Med-Assistant",
+        "description": "Medical Assistant ",
+        "language": "Python",
+        "languages": [
+          "Python",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Dockerfile"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/Med-Assistant",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2025-08-07 16:25:19+00:00",
+        "updated_at": "2025-08-18 18:47:03+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "kThendral",
+          "Somnathumapathi"
+        ],
+        "readme": "# \ud83e\ude7a Medical Assistant\r\n\r\nAn AI-powered web application that assists doctors by **transcribing doctor-patient conversations**, extracting symptoms, and providing **diagnosis & prescription suggestions** using the **Gemini API**.  \r\nThe app also integrates **Retrieval-Augmented Generation (RAG)** with **FAISS** and **Sentence Transformers** to retrieve relevant medical knowledge from a local document base before generating responses.\r\n\r\n---\r\n\r\n## \ud83d\ude80 Features\r\n- **\ud83c\udfa4 Audio Recording in Browser** \u2013 Record short doctor-patient interactions directly from the web UI.\r\n- **\ud83d\udcdd Speech-to-Text Transcription** \u2013 Converts recorded audio to text using SpeechRecognition and Google Web Speech API.\r\n- **\ud83e\udde0 AI-Powered Diagnosis** \u2013 Uses Gemini API to provide diagnosis and prescription suggestions based on symptoms.\r\n- **\ud83d\udcc4 RAG Integration** \u2013 FAISS-powered document retrieval from a small medical knowledge base for context-aware responses.\r\n- **\ud83c\udf10 Full Web App** \u2013 Built with Flask backend and Jinja frontend for a seamless user experience.\r\n- **\u26a1 Prompt Engineering** \u2013 Fine-tuned prompts to improve the accuracy and relevance of AI responses.\r\n\r\n---\r\n\r\n## \ud83d\udee0\ufe0f Tech Stack\r\n- **Backend:** Python, Flask\r\n- **Frontend:** HTML (Jinja Templates), JavaScript\r\n- **AI/ML:** Google Generative AI (Gemini API), FAISS, Sentence Transformers\r\n- **Speech-to-Text:** SpeechRecognition, Google Web Speech API\r\n- **Others:** HTML5 Audio Recording, CSS\r\n\r\n---\r\n\r\n## \u2699\ufe0f Installation & Setup\r\n\r\n### 1\ufe0f\u20e3 Clone the Repository\r\n```bash\r\ngit clone https://github.com/Thendralk/Med-Assistant.git\r\ncd Med-Assistant\r\n````\r\n\r\n### 2\ufe0f\u20e3 Create a Virtual Environment\r\n\r\n```bash\r\npython -m venv venv\r\nsource venv/bin/activate   # On Windows: venv\\Scripts\\activate\r\n```\r\n\r\n### 3\ufe0f\u20e3 Install Dependencies\r\n\r\n```bash\r\npip install -r requirements.txt\r\n```\r\n\r\n### 4\ufe0f\u20e3 Add API Keys\r\n\r\nCreate a `config.py` file:\r\n\r\n```python\r\nGOOGLE_API_KEY = \"your_gemini_api_key\"\r\n```\r\n\r\n### 5\ufe0f\u20e3 Run the Application\r\n\r\n```bash\r\npython app.py\r\n```\r\n\r\nVisit: **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)**\r\n\r\n---\r\n\r\n## \ud83d\udda5\ufe0f Usage\r\n\r\n1. Open the app in your browser.\r\n2. Click **\ud83c\udfa4 Record Audio (5 sec)** to record doctor-patient conversation.\r\n3. Wait for transcription to complete.\r\n4. AI will process the transcription, retrieve relevant medical knowledge, and return a suggested diagnosis and prescription.\r\n\r\n---\r\n\r\n## \ud83d\udcc4 Example Workflow\r\n\r\n* Doctor: *\"The patient has had a fever for 3 days with mild cough.\"*\r\n* App Transcribes \u2192 `\"Patient has fever for 3 days and mild cough\"`\r\n* Gemini API generates:\r\n\r\n  > **Diagnosis:** Likely viral fever with mild respiratory infection.\r\n  > **Prescription:** Paracetamol 500mg twice daily, hydration, rest. Follow up if fever persists beyond 3 days.\r\n\r\n---\r\n\r\n## \ud83c\udfd7\ufe0f Future Improvements\r\n\r\n* \u2705 Longer audio recording duration\r\n* \u2705 Real-time transcription while recording\r\n* \u2705 Integration with EHR systems\r\n* \u2705 Support for multiple languages\r\n\r\n---\r\n\r\n## \ud83d\udcdc License\r\n\r\nThis project is licensed under the MIT License. You are free to use, modify, and distribute it.\r\n\r\n---\r\n\r\n## \ud83e\udd1d Contributing\r\n\r\nPull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.\r\n\r\n---\r\n\r\n## \ud83d\udc69\u200d\ud83d\udcbb Author\r\n\r\n**Thendral Kabilan**\r\n[GitHub Profile](https://github.com/Thendralk)\r\n[LinkedIn](www.linkedin.com/in/thendral-kabilan)\r\n\r\n**Somnath Umapathi**\r\n[GitHub Profile](https://github.com/Somnathumapathi)\r\n[LinkedIn](https://www.linkedin.com/in/somnath-umapathi-9a485a205/)\r\n\r\n\r\n\r\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 36,
+        "file_count": 14
+      },
+      {
+        "name": "Medical-assistant",
+        "description": null,
+        "language": "Dart",
+        "languages": [
+          "Dart",
+          "C++",
+          "CMake",
+          "JavaScript",
+          "Swift",
+          "HTML",
+          "C",
+          "Kotlin",
+          "Objective-C"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/Medical-assistant",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2024-06-07 04:30:20+00:00",
+        "updated_at": "2025-08-06 10:16:42+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "Somnathumapathi",
+          "rajivchaitanya1303",
+          "smr29",
+          "kThendral"
+        ],
+        "readme": "# medical_assistant\n\nA new Flutter project.\n\n## Getting Started\n\nThis project is a starting point for a Flutter application.\n\nA few resources to get you started if this is your first Flutter project:\n\n- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)\n- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)\n\nFor help getting started with Flutter development, view the\n[online documentation](https://docs.flutter.dev/), which offers tutorials,\nsamples, guidance on mobile development, and a full API reference.\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 5743,
+        "file_count": 16
+      },
+      {
+        "name": "placemate",
+        "description": null,
+        "language": "Python",
+        "languages": [
+          "Python",
+          "C",
+          "Cython",
+          "C++",
+          "Fortran",
+          "PowerShell",
+          "Smarty",
+          "Meson",
+          "Batchfile"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/placemate",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2025-07-26 12:08:02+00:00",
+        "updated_at": "2025-07-28 17:39:11+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "kThendral",
+          "Somnathumapathi"
+        ],
+        "readme": "# Placemate: Smart Telegram Placement Bot\n\n**Placemate** is an intelligent Telegram bot built with Python and the Telethon library. It listens to real-time chat updates, extracts relevant placement-related information, downloads job-related files, and checks if a student is shortlisted \u2014 all automated through one script.\n\n---\n\n## Features\n\n* Real-time Message Listening\n  Monitors a specific Telegram group or channel for keywords related to campus drives, hiring, and placements.\n\n* Context-Aware Message Filtering\n  Detects and filters drive-related messages using context keywords like \u201cplacement\u201d, \u201chiring\u201d, \u201cshortlist\u201d, etc.\n\n* Document Auto-Downloader\n  Automatically downloads Excel files (shortlist) and PDFs (Job Descriptions) posted in the chat.\n\n* Shortlist Checker\n  Parses the downloaded Excel file and checks whether specific students are shortlisted using name matching.\n\n---\n\n## Tech Stack\n\n* Python 3.10+\n* Telethon \u2013 for Telegram API access\n* pandas \u2013 for Excel file parsing\n* openpyxl / xlrd \u2013 for Excel compatibility\n* dotenv \u2013 for environment variable management\n\n---\n\n## Folder Structure\n\nplacemate/\n\n\u251c\u2500\u2500 downloaded\\_excel\\_files/        \u2192 Excel files downloaded from Telegram\n\n\u251c\u2500\u2500 utils/\n\n\u2502   \u2514\u2500\u2500 read\\_excel.py              \u2192 Logic to check if a student is shortlisted\n\n\u251c\u2500\u2500 .env                           \u2192 Stores API credentials and config\n\n\u251c\u2500\u2500 app.py                         \u2192 Main bot logic\n\n\u251c\u2500\u2500 requirements.txt\n\n\u2514\u2500\u2500 README.md\n\n---\n\n## Setup Instructions\n\n1. Clone the repository\n   git clone [https://github.com/kThendral/placemate.git](https://github.com/kThendral/placemate.git)\n   cd placemate\n\n2. Create a virtual environment (recommended)\n   python -m venv venv\n   source venv/bin/activate (On Windows: venv\\Scripts\\activate)\n\n3. Install dependencies\n   pip install -r requirements.txt\n\n4. Set up your `.env` file\n   \n   Create a `.env` file in the root directory and add:\n   API\\_ID=your\\_telegram\\_api\\_id\n   \n   API\\_HASH=your\\_telegram\\_api\\_hash\n   \n   SESSION\\_NAME=placemate\\_session\n   \n   CHAT\\_ID=123456789 (ID of the group/channel to monitor)\n\n   (To get API credentials, visit: [https://my.telegram.org](https://my.telegram.org))\n\n---\n\n## Run the Bot\n\npython app.py\n\nIt will:\n\n* Connect to Telegram\n* Listen for drive-related messages\n* Automatically download relevant Excel/PDF files\n* Check if you're shortlisted\n* Print results to console\n\n---\n\n## Sample Output\n\n\ud83d\udd17 Connecting to Telegram...\n\n\u2705 Target chat found: Placement Group 2025\n\n\ud83d\udcdd Message: Infosys placement drive this Friday!\n\n\ud83d\udea8 Drive-related message detected!\n\n\ud83d\udcc4 Document received: infosys\\_shortlist.xlsx\n\n\ud83d\udce5 Excel file detected: infosys\\_shortlist.xlsx\n\n\u2705 File downloaded to: /downloaded\\_excel\\_files/infosys\\_shortlist.xlsx\n\n\ud83d\udcca Shortlist results:\n\n\ud83c\udf89 Alice Johnson is SHORTLISTED!\n\n\u274c Bob Smith is not shortlisted.\n\n---\n\n## Testing\n\nYou can manually test it by forwarding placement messages or Excel files to your bot-connected group.\n\n---\n\n## Contributions\n\nPull requests and feature suggestions are welcome! For major changes, please open an issue first.\n\n---\n\n## License\n\nMIT License. Use freely with credit.\n\n---\n\n## Contact\n\nMaintained by @kThendral @Somnathumapathi\nFor help or feature requests, please raise an issue on GitHub.\n\n\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 48452,
+        "file_count": 8
+      },
+      {
+        "name": "SEMS",
+        "description": null,
+        "language": "Python",
+        "languages": [
+          "Python"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/SEMS",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2024-11-28 16:58:54+00:00",
+        "updated_at": "2024-11-28 17:06:34+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "kThendral"
+        ],
+        "readme": "# SEMS- Smart Energy Management System\nThis IoT-driven project is designed to optimize energy conservation, enhance operational efficiency, and improve safety within a model room setup. The system incorporates advanced technologies to create an intelligent environment that minimizes energy consumption while focusing on user convenience and safety. Through the integration of sensors and automation, the project ensures that devices operate only when needed, contributing to both energy savings and an efficient living space.\n\nAt the heart of the system is an RFID card reader, which controls access to various appliances in the room. Only authorized users are allowed to activate or deactivate the devices, ensuring energy is not wasted when the room is unoccupied. When access is granted, the system uses a motion sensor to activate lights and fans, ensuring they only run when movement is detected in the room. This motion-triggered operation helps reduce unnecessary energy consumption, making the environment more sustainable.\n\nSafety is also a primary focus of the system. A fire sensor is integrated into the setup to detect any emergencies, triggering a buzzer to alert the users. While the system does not send notifications, the audible buzzer ensures that anyone present in the room is immediately aware of the fire hazard. This safety feature provides a prompt response mechanism to address fire-related risks, adding an extra layer of protection for the room's occupants.\n\nThe entire system is built on a Raspberry Pi, which acts as the central processing unit for managing the sensors and devices. The project is developed using Python to ensure autonomous operation, with a strong emphasis on integrating hardware and software seamlessly. Collaborative development with teammates was crucial to ensure that the system functions efficiently and reliably, providing both energy conservation and safety in an easy-to-manage package.\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 9,
+        "file_count": 2
+      },
+      {
+        "name": "Weapon-Detection-Model",
+        "description": "Weapon Detection Model is a full-stack AI application for real-time or batch weapon detection using deep learning. It is designed for easy deployment, real-time monitoring, and extensibility for security applications.",
+        "language": null,
+        "languages": [
+          "Python",
+          "HTML",
+          "Shell",
+          "Dockerfile"
+        ],
+        "topics": [],
+        "url": "https://github.com/kThendral/Weapon-Detection-Model",
+        "stars": 0,
+        "forks": 0,
+        "created_at": "2025-07-04 13:36:12+00:00",
+        "updated_at": "2025-07-04 13:36:12+00:00",
+        "last_commit": "No commits",
+        "contributors": [
+          "AhanaS07",
+          "SkySingh04"
+        ],
+        "readme": "# Weapon-Detection-Model \n\n# Project Overview\n\nWeapon-Detection-Model is an AI-powered system designed to detect weapons (specifically knives and guns) from images or a live camera feed. It uses a Mobile SSDNet-based model and provides both a web-based frontend and a backend model server. The system can run locally or in Docker, and is optimized for deployment on devices like the Jetson Nano.\n\n# How the Project Works\n\n**1. Model Server (model_server.py)**\nPurpose : Runs the weapon detection model on a Jetson Nano (or similar device) and exposes HTTP endpoints for detection requests.\n\nKey Features:\n- Loads a TensorFlow model for weapon detection.\n- Accepts image uploads via HTTP POST requests for inference.\n- Can capture frames directly from a connected camera.\n- Provides endpoints for: Starting/stopping the camera stream, Fetching the latest frame, Running detection on uploaded images.\n- Uses a queue to buffer camera frames for efficient processing.\n- Logs all activity for debugging and monitoring.\n\n**2. Frontend (frontend/ folder)**\nPurpose : Provides a user-friendly web interface for interacting with the weapon detection system.\n\nKey Components: \n\napp.py:\n- Flask web app that serves the frontend.\n- Handles user authentication (simple admin login).\n- Streams detection results to the browser in real-time.\n- Integrates with the backend model server via HTTP.\n\nweapon_detection_system.py:\n- Orchestrates the detection workflow.\n- Operates in Live Mode (Connects to the model server for real-time detection from a camera)\n- Draws bounding boxes on detected weapons and prepares data for the frontend.\n\ndetection_api.py:\n- Exposes REST API endpoints for detection.\n- Handles image uploads, calls the model server, and returns detection results.\n- Implements rate limiting and security checks.\n\nTemplates (templates/):\n- HTML files for login, detection dashboard, and results display.\n- Includes a live feed, processed images, and detection statistics.\n\nStatic Folders: For storing uploaded and processed images, and alarm sounds.\n\n**3. User Workflow**\n\nSetup:\n- Install dependencies (pip install -r requirements.txt).\n- Run the model server (python model_server.py) on the Jetson Nano or server.\n- Start the frontend (python app.py or via Docker).\n\nUsage:\n- Log in to the web interface.\n- Upload images or view the live camera feed.\n- The system detects weapons, draws bounding boxes, and displays results in real-time.\n- If a weapon is detected, an alarm can be triggered and notifications can be sent.\n\n# Key Technologies Used\n- Backend: TensorFlow, Flask, OpenCV, NumPy, threading, REST APIs.\n- Frontend: Flask, HTML/CSS (Bootstrap), JavaScript.\n- Deployment: Docker support, Jetson Nano optimization.\n",
+        "issues": 0,
+        "pulls": 0,
+        "size_kb": 254091,
+        "file_count": 12
+      }
+    ],
+    "github_url": "https://github.com/kThendral"
+  },
+  "combined_score": {
+    "combined_suitability_score": 55,
+    "github_score": 30,
+    "resume_score": 85,
+    "summary": "The candidate, Thendral Kabilan, presents an exceptionally strong resume for a Junior Machine Learning Engineer position. They are a high-achieving fourth-year B.Tech student with an excellent academic record (CGPA 9.4) and a solid foundation in computer science and ML principles. The resume highlights proficiency in Python and key ML libraries (XGBoost, TensorFlow, NLP, LLMs, RAG), data handling (Pandas, feature engineering), and version control (Git). Their projects, such as an AI-powered medical assistant, an influencer genuineness detection system, and a real-time weapon detection system, demonstrate practical application of advanced ML concepts, problem-solving abilities, and an innovative mindset. The inclusion of a published paper further underscores their passion for the field, and community involvement suggests good collaboration and communication skills.\n\nHowever, the provided GitHub profile data significantly undermines these impressive claims. While the candidate has a GitHub account with 15 public repositories and relevant project titles, there are critical discrepancies. Several key projects detailed in the resume (e.g., 'Medical Assistant', 'Weapon Detection System') either show 'No commits' from the candidate, do not list the candidate as a contributor, or in the case of 'Influencer Genuineness Detection' and 'Smart home System', are entirely missing from the provided GitHub data. This raises serious concerns about the verifiability of their hands-on coding experience and their proficiency in using Git for collaborative or personal project management. The consistent lack of stars, forks, issues, and pull requests across all listed projects also suggests limited project maturity or external engagement. The GitHub profile, as provided, fails to corroborate, and in some instances, contradicts the resume's claims regarding active, demonstrable contribution to the core projects.",
+    "recommendation": "Based on the significant discrepancies between the candidate's strong resume and their unconvincing GitHub profile, a direct offer is not recommended at this stage. The resume positions Thendral as a highly promising candidate with the academic background and theoretical knowledge for a Junior ML Engineer role. However, the GitHub profile's inability to verify practical contributions to key projects, or in some cases, contradicting the resume's claims, presents a major red flag.\n\n**Recommendation: Proceed with a focused technical interview.** During this interview, it is crucial to:\n1.  **Address GitHub Discrepancies Directly:** Ask the candidate to walk through the code for their 'Medical Assistant' and 'Weapon Detection System' projects, specifically inquiring about their exact contributions and why these are not clearly visible or attributed to them in the public GitHub repositories provided.\n2.  **Inquire About Missing Projects:** Ask about the 'Influencer Genuineness Detection' and 'Smart home System' projects, requesting links or explanations for their absence from the public GitHub profile.\n3.  **Assess Git Proficiency:** Evaluate their understanding and practical application of version control in a team environment.\n\nIf the candidate can convincingly demonstrate their direct involvement, provide the missing context, and showcase genuine coding proficiency for the projects listed on their resume, they could prove to be a strong candidate. Without such clarification, the lack of verifiable code contribution through their GitHub profile makes them a high-risk candidate for a role that explicitly asks for Git familiarity and hands-on experience."
+  }
+}
